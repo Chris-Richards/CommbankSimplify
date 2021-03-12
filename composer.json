@@ -1,0 +1,10 @@
+{
+    "name": "chrisrichards/commbank-simplify",
+    "authors": [
+        {
+            "name": "Chris Richards",
+            "email": "chrisrichardsdev@gmail.com"
+        }
+    ],
+    "require": {}
+}
